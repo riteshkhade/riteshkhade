@@ -47,15 +47,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ritesh-khade-98b232139/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/RiteshKhade10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/ritesh_khade_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ritesh-khade-98b232139/)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/RiteshKhade10)
+[<img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow"/>](https://leetcode.com/khaderitesh/)
+[<img src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>](https://auth.geeksforgeeks.org/user/khaderitesh67/practice)
+
+</p>
+
 </div>
 
 ###
