@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tech Enthusiast with a Drive for Continuous Learning.<br>📚 FInal Year IT Btech Student<br>🎯 Goals: My goal is to secure a challenging position in the IT that allows me to apply my technical skills.<br>🎲 Fun fact: In my free time, I enjoy solving problems</p>
+<p align="left">✨ Reach me at khaderitesh67@gmail.com <br>📚 FInal Year IT Btech Student<br>🎯 Goals: My goal is to secure a challenging position in the IT that allows me to apply my technical skills.<br>🎲 Fun fact: In my free time, I enjoy solving problems</p>
 
 ###
 
